@@ -3,4 +3,5 @@
 	url = https://github.com/docopt/docopt.c
 [submodule "lib/mbed-edge"]
 	path = lib/mbed-edge
-	url = https://github.com/ARMmbed/mbed-edge
+	url = https://github.com/DougAnsonAtARM/mbed-edge
+	branch = release-0.14.0
